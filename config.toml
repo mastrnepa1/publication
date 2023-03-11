@@ -88,3 +88,6 @@ home = ["HTML", "RSS", "JSON"]
 # name = "stackoverflow"
 # url = "https://stackoverflow.com/#"
 # name = "gitlab"
+
+#open internal links on same tab and external on new
+hrefTargetBlank = false
