@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Mastr</title>
-    <link>/tags/index/</link>
+    <link>http://mastr.satyarajawasthi.com.np/tags/index/</link>
     <description>Recent content in index on Mastr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>| © Mastr</copyright><atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>| © Mastr</copyright><atom:link href="http://mastr.satyarajawasthi.com.np/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>http://mastr.satyarajawasthi.com.np/post/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>http://mastr.satyarajawasthi.com.np/post/</guid>
       <description>
         
           
