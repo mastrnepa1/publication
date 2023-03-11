@@ -2,4 +2,4 @@
   HUGO_VERSION = "0.109.0"
 
   [dev]
-   publish="public"
+  publish="public"
