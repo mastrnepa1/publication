@@ -17,7 +17,7 @@
         
           
             Start learning C programming now in nepali language.
-C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie at Bell Labs, and remains very widely used and influential. By design, C&#39;s features cleanly reflect the capabilities of the targetted CPUs.
+C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie at Bell Labs, and remains very widely used and influential. By design, C&amp;rsquo;s features cleanly reflect the capabilities of the targetted CPUs.
 Click here to get your hands on learning.
           
           
@@ -52,7 +52,7 @@ How to swap 2 numbers without using 3 variables | Swapping numbers in C++ Get co
       <description>
         
           
-            The &amp;quot;Notices&amp;quot; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.
+            The &amp;ldquo;Notices&amp;rdquo; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.
 To create a notice on a page, you can use the notice shortcode.
 You use the notice shortcode, with the first parameter being one of note, info, tip, and warning. Then add a title for your note in quotes as the second parameter. The inner body of the note can be whatever markdown you want to create.
           

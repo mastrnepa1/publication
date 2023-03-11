@@ -1,60 +1,83 @@
-[[main]]
+# set `baseurl` to your root domain
+# if you set it to "/" share icons won't work properly on production
+baseurl = "http://mastr.satyarajawasthi.com.np/"  # Include trailing slash
+title = "Mastr"   # alternatively, uncomment this and remove `title` entry from the aforemention file.
+copyright = "| © Mastr"
+# canonifyurls = true
+paginate = 10
+theme = "hugo-clarity"
+#disqusShortname = ""
+
+DefaultContentLanguage = "en"
+# [languages]
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[menu]
+[[menu.main]]
   name = "Home"
   url = ""
   weight = -110
 
-[[main]]
+[[menu.main]]
   name = "Videos"
   url = "post/videos/"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
-[[main]]
+[[menu.main]]
   name = "Tutorials"
   identifier = "Tutorials"
   weight = -108
-[[main]]
+[[menu.main]]
   parent = "Tutorials"
   name = "Java"
   url = "#"
-[[main]]
+[[menu.main]]
   parent = "Tutorials"
   name = "JavaScript"
   url = "#"
-[[main]]
+[[menu.main]]
   parent = "Tutorials"
   name = "Kotlin"
   url = "#"
-[[main]]
+[[menu.main]]
   parent = "Tutorials"
   name = "C Programming"
   url = "post/c-programming/"
 
-[[main]]
+[[menu.main]]
   name = "About"
   url = "about/"
   weight = -107
 
 # social menu links
 
-[[social]]
+[[menu.social]]
   name = "github"
   type = "social"
   weight = 1
   url = "https://github.com/mastrnepa1"
-[[social]]
+[[menu.social]]
   name = "youtube"
   weight = 2
   url = "https://www.youtube.com/@mastrnepa1"
-[[social]]
+[[menu.social]]
   name = "twitter"
   weight = 3
   url = "https://twitter.com/#"
-[[social]]
+[[menu.social]]
   name = "linkedin"
   weight = 4
   url = "https://www.linkedin.com/in/#"
-[[social]]
+[[menu.social]]
   name = "facebook"
   weight = 5
   url = "https://www.facebook.com/mastrnepa1"
