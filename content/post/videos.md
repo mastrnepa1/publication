@@ -6,7 +6,7 @@ description = "Get some interesting videos and tutorials"
 tags = [
     "videos"
 ]
-thumbnail = "[static/images/swapping numbers without using.png](https://github.com/mastrnepa1/publications/blob/ebc2994e1231bb2ea9ced879c1c083f185da5ebc/static/images/swapping%20numbers%20without%20using.png)"
+thumbnail = "images/swapping numbers without using.png"
 
 +++
 
