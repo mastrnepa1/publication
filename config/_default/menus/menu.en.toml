@@ -1,0 +1,70 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Videos"
+  url = "post/videos/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Tutorials"
+  identifier = "Tutorials"
+  weight = -108
+[[main]]
+  parent = "Tutorials"
+  name = "Java"
+  url = "#"
+[[main]]
+  parent = "Tutorials"
+  name = "JavaScript"
+  url = "#"
+[[main]]
+  parent = "Tutorials"
+  name = "Kotlin"
+  url = "#"
+[[main]]
+  parent = "Tutorials"
+  name = "C Programming"
+  url = "post/c-programming/"
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/mastrnepa1"
+[[social]]
+  name = "youtube"
+  weight = 2
+  url = "https://www.youtube.com/@mastrnepa1"
+[[social]]
+  name = "twitter"
+  weight = 3
+  url = "https://twitter.com/#"
+[[social]]
+  name = "linkedin"
+  weight = 4
+  url = "https://www.linkedin.com/in/#"
+[[social]]
+  name = "facebook"
+  weight = 5
+  url = "https://www.facebook.com/mastrnepa1"
+
+# other supported social links
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
