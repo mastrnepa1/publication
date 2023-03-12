@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "http://mastr.satyarajawasthi.com.np/"  # Include trailing slash
+baseurl = "https://mastr.netlify.app/"  # Include trailing slash
 title = "Mastr"   # alternatively, uncomment this and remove `title` entry from the aforemention file.
 copyright = "| © Mastr"
 # canonifyurls = true
