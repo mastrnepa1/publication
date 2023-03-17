@@ -16,6 +16,7 @@ tags:
 # comment: false # Disable comment if false.
 ---
 
+![Check whether two strins are anagram or not.](http://mastr.satyarajawasthi.com.np/images/checking%20whether%20two%20strings%20are%20anagram%20or%20not%20mastr.png)
 Are you preparing for interview exams for internships, traineeship or other entry level position. The you may face this question in your technical round. 
 
 Lets see how we can check whether two strings are anagram or not. Before diving into, lets break the title.
