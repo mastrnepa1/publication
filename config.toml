@@ -72,11 +72,11 @@ home = ["HTML", "RSS", "JSON"]
 [[menu.social]]
   name = "twitter"
   weight = 3
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/SatyaRajAwasth1"
 [[menu.social]]
   name = "linkedin"
   weight = 4
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/SatyaRajAwasth1"
 [[menu.social]]
   name = "facebook"
   weight = 5
